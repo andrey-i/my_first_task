@@ -1,1 +1,2 @@
-Just empty file to get some practice in Git
+Just empty file to get some practice in Git.
+Added text to commit changes in dev branch.
